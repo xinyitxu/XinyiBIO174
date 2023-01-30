@@ -1,6 +1,7 @@
 html {
 	background: #6495ED;
 	padding: 20px;
+	font-family: 'Montserrat', sans-serif;
 }
 body {
 	background: #ffffff;
@@ -11,14 +12,14 @@ body {
 
 p , ul, ol, li, table, td, th {
 	font-size: 1em;
-	font-family: Georgia,serif;
+	font-family: 'Montserrat', sans-serif;
 	line-height: 1.5em;
 	color: #4e4e4e;
-	text-align: justify
+	text-align: left 
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: Georgia,serif;
+	font-family: 'Montserrat', sans-serif;
 	color: #4e4e4e;
 }
 
